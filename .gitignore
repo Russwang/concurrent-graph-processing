@@ -1,0 +1,13 @@
+.DS_Store
+*.class
+*.jar
+*.zip
+*.iml
+.idea/
+.vscode/
+build/
+lib/
+# Keep generated results and downloaded graphs outside the tracked examples.
+output*.txt
+results/
+data/
